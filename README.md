@@ -1,2 +1,2 @@
 # Design Patterns
-Examples of design patterns from CodeCouple.pl.
+This repository contains examples of design patterns from https://CodeCouple.pl
